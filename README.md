@@ -3,7 +3,11 @@
 A modern food discovery and ordering web application built using **React, Vite, TypeScript, and Tailwind CSS**.
 This project provides a clean and responsive interface for browsing food items, managing carts, and exploring restaurant menus.
 
----
+----
+
+## URL : trichy-bites-1.vercel.app
+
+-----
 
 ## 🚀 Features
 
