@@ -1,73 +1,130 @@
-# Welcome to your Lovable project
+# Trichy Bites 🍽️
 
-## Project info
+A modern food discovery and ordering web application built using **React, Vite, TypeScript, and Tailwind CSS**.
+This project provides a clean and responsive interface for browsing food items, managing carts, and exploring restaurant menus.
 
-**URL**: https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID
+---
 
-## How can I edit this code?
+## 🌐 Live Demo
 
-There are several ways of editing your application.
+🔗 https://trichy-bites-1.vercel.app
 
-**Use Lovable**
+----
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and start prompting.
+## 🚀 Features
 
-Changes made via Lovable will be committed automatically to this repo.
+* Modern and responsive UI
+* Fast performance using **Vite**
+* Type-safe development with **TypeScript**
+* Reusable UI components with **shadcn/ui**
+* Styled using **Tailwind CSS**
+* Cart management using React Context
+* Modular and scalable project structure
 
-**Use your preferred IDE**
+---
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+## 🛠️ Tech Stack
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+* **React**
+* **Vite**
+* **TypeScript**
+* **Tailwind CSS**
+* **shadcn/ui**
 
-Follow these steps:
+---
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+## 📂 Project Structure
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+```
+src/
+ ├── assets/        # Images and static assets
+ ├── components/    # Reusable UI components
+ ├── context/       # React context (Cart management)
+ ├── data/          # Static data
+ ├── hooks/         # Custom React hooks
+ ├── lib/           # Utility functions
+ ├── pages/         # Application pages
+ ├── types/         # TypeScript types
+ ├── App.tsx
+ └── main.tsx
+```
 
-# Step 3: Install the necessary dependencies.
-npm i
+---
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
+## ⚙️ Installation
+
+Make sure you have **Node.js (v16 or later)** installed.
+
+### 1️⃣ Clone the repository
+
+```
+git clone https://github.com/your-username/trichy-bites.git
+```
+
+### 2️⃣ Navigate to the project folder
+
+```
+cd trichy-bites
+```
+
+### 3️⃣ Install dependencies
+
+```
+npm install
+```
+
+### 4️⃣ Run the development server
+
+```
 npm run dev
 ```
 
-**Edit a file directly in GitHub**
+The application will start at:
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+```
+http://localhost:5173
+```
 
-**Use GitHub Codespaces**
+---
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+## 📦 Build for Production
 
-## What technologies are used for this project?
+```
+npm run build
+```
 
-This project is built with:
+Preview the production build:
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+```
+npm run preview
+```
 
-## How can I deploy this project?
+---
 
-Simply open [Lovable](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and click on Share -> Publish.
+## 🌐 Deployment
 
-## Can I connect a custom domain to my Lovable project?
+This project can be deployed easily using platforms such as:
 
-Yes, you can!
+* **Vercel**
+* **Netlify**
+* **GitHub Pages**
 
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
+---
 
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+## 📸 Screenshots
+
+*Add screenshots of the application here.*
+
+---
+
+## 📄 License
+
+This project is open-source and available under the **MIT License**.
+
+---
+
+## 👨‍💻 Author
+
+**Saran**
+
+Passionate about **Web Development, AI, and Software Systems**.
