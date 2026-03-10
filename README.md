@@ -7,9 +7,7 @@ This project provides a clean and responsive interface for browsing food items, 
 
 ## 🌐 Live Demo
 
-You can view the live project here:
-
-[Visit Website](trichy-bites-1.vercel.app)
+🔗 https://trichy-bites-1.vercel.app
 
 ----
 
