@@ -8,7 +8,7 @@ const Footer = () => {
           {/* Brand */}
           <div>
             <div className="flex items-center gap-2 mb-4">
-              <span className="text-3xl">🍛</span>
+              <span className="text-3xl"></span>
               <h3 className="font-serif text-2xl font-bold">Trichy Foods</h3>
             </div>
             <p className="text-primary-foreground/80 mb-4">
