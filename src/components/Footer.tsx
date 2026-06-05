@@ -54,7 +54,7 @@ const Footer = () => {
             </div>
             <div className="mt-4 p-3 bg-accent/20 rounded-lg">
               <p className="text-sm">
-                🚗 <strong>Free Delivery</strong> on orders above ₹300 within Trichy
+                 <strong>Free Delivery</strong> on orders above ₹300 within Trichy
               </p>
             </div>
           </div>
